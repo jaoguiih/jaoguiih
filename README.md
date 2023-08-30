@@ -1,11 +1,17 @@
-### Hi there 👋
+### Yo guys, sup?👋
+>Doki Doki Fan
+<img style="width:50rem;height:25rem;margin: auto" alt='olá' src="https://media.tenor.com/YhrdIYkch5IAAAAC/natsuki-doki-doki.gif"/>
 
-<!--
-**jaoguiih/jaoguiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+<h1 style="color:blue;">
+     Estudante 📔 | Dedicado 🍷 | Gamer 🎮 
 
-Here are some ideas to get you started:
+  </h1>
 
-- 🔭 I’m currently working on ...
+</div>
+
+- 🍃 "Só entendendo os erros da pra vencer a luta..."
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
+
+
+
