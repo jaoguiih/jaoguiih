@@ -27,7 +27,7 @@ Praticamente impossivel de você me irritar, eu digo DUVIDO, eu sou a personific
 Também muito dedicado e determinado.
 </p>
 
-  <h3>Tecnologia e Internet..🌍✨</h3>
+  <h2>Tecnologia e Internet..🌍✨</h2>
   
 <p>
 
