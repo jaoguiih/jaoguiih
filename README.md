@@ -24,16 +24,32 @@
 
 Nascido em Recife, pleno dia 19 de Novembro de 2005, tenho 17y e sempre gostei de Celulares, Computadores, Tecnologia e Video Games.
 Praticamente impossivel de você me irritar, eu digo DUVIDO, eu sou a personificação da Calma. <br>
-Também muito dedicado e determinado.
+Também muito dedicado e determinado, até quando não preciso ser.
 </p>
 
   <h2>Tecnologia e Internet..🌍✨</h2>
   
 <p>
 
-  Joguei minha vida toda tanto sozinho, com familiares e ate colegas de classe, já fui muito energetico quando criança mas hoje me acalmei, e sinceramente, amo do jeito que sou hoje, por mais que não seja tao extrovertido prefiro como estou, ainda sim sou sociavel e consigo conversar sobre qualquer coisa.
-Sempre tive o interesse em trabalhar e estudar programação, desenvolvimento web, de sistemas, etc, e estou amando ver todas essas coisas novas, pretendo continuar e melhorar cada vez mais.
+Joguei minha vida toda tanto sozinho, com familiares e ate colegas de classe, já fui muito energetico quando criança mas hoje me acalmei. <br>
+Sempre tive o interesse em trabalhar e estudar programação, desenvolvimento web, de sistemas e etc. <br>
+Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada vez mais.
 </p>
+
+<h2> Doki Doki Literature Club 📚❤️✨</h2>
+
+<p>
+
+  Em meados de 2019 conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. (Não sei se deu pra perceber). <br>
+  Personagem favorita? Natsuki! Perfeits, fofa, minha mulher toda, oque tem a ver com gifhub e programação? NADA, mas o perfil é meu e escrevo oq quero, lol. <br>
+  E pra quem não sabe... <br>
+  "O Clube de Literatura está cheio de garotas fofas! Você escreverá o caminho para o coração deles?" <br>
+  Este jogo não aparenta oque parece ser... mas é bom e eu o amo! <br>
+  <strong>JUST NATSUKI</strong>
+</p>
+
+
+
   
 </div>
 
