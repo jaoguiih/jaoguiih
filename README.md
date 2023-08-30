@@ -10,6 +10,8 @@
   </h1>
 
 </div>
+
+<div>
 <p>
   Sempre se esforçando ao maximo e dando tudo de mim a todo momento, talvez um viciado em jogos e mega fanático de Doki Doki? Talvez, porém sempre tentando ser melhor e arrumando tempo para estudar e melhorar minhas habilidades que já não são muitas hahaha.
 </p>
@@ -33,6 +35,6 @@ Também muito dedicado e determinado.
 Sempre tive o interesse em trabalhar e estudar programação, desenvolvimento web, de sistemas, etc, e estou amando ver todas essas coisas novas, pretendo continuar e melhorar cada vez mais.
 </p>
   
-
+</div>
 
 
