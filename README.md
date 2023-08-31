@@ -18,7 +18,6 @@
   Sempre se esforçando ao maximo e dando tudo de mim a todo momento, talvez um viciado em jogos e mega fanático de Doki Doki? Talvez, porém sempre tentando ser melhor e arrumando tempo para estudar e melhorar minhas habilidades que já não são muitas hahaha.
 </p>
 
-<hr>
 
  <h2> Um pouco da minha pessoa..🤙✨</h2>
 
@@ -29,7 +28,6 @@ Praticamente impossivel de você me irritar, eu digo DUVIDO, eu sou a personific
 Também muito dedicado e determinado, até quando não preciso ser.
 </p>
 
-<hr>
 
   <h2>Tecnologia e Internet..🌍✨</h2>
   
@@ -40,7 +38,6 @@ Sempre tive o interesse em trabalhar e estudar programação, desenvolvimento we
 Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada vez mais.
 </p>
 
-<hr>
 
 <h2> Doki Doki Literature Club 📚❤️✨</h2>
 
@@ -57,7 +54,7 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 </div>
 
 
-<hr> <div>
+<div>
 
    <h2>Redes Sociais 💻🖱️</h2>
 
@@ -68,14 +65,4 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
    </a> &nbsp; 
    
    
-      <a href="https://www.twitter.com/jaoguiih"  target="_blank">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTyf_wdCFDBuqK-4aGxK1iNLzfsJENK-o2Q&usqp=CAU" target="_blank" width="45" height="25">
-   </a> &nbsp;
-   
-   
-         <a href="https://steamcommunity.com/id/jaoguiih/"  target="_blank">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rWbL1_UjRRvYNjd5j92Vcv1RpAB2JxZRlg&usqp=CAU" target="_blank" width="45" height="25">
-   </a> 
-
 </div>
-
