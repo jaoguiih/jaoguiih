@@ -57,23 +57,22 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 
    <h2>Redes Sociais 💻🖱️</h2>
 
-   &nbsp;
    <a href="https://www.instagram.com/jaoguiih"  target="_blank">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFuduKeoXuXwaMhQSccqhFzbW6OpEAEg30A&usqp=CAU" target="_blank" width="45" height="25">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFuduKeoXuXwaMhQSccqhFzbW6OpEAEg30A&usqp=CAU" target="_blank" width="55" height="35">
    </a> &nbsp; 
    
     
   <a href="https://www.twitter.com/jaoguiih"  target="_blank">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTyf_wdCFDBuqK-4aGxK1iNLzfsJENK-o2Q&usqp=CAU" target="_blank" width="45" height="25">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTyf_wdCFDBuqK-4aGxK1iNLzfsJENK-o2Q&usqp=CAU" target="_blank" width="55" height="35">
    </a> &nbsp;
    
    
   <a href="https://steamcommunity.com/id/jaoguiih/"  target="_blank">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rWbL1_UjRRvYNjd5j92Vcv1RpAB2JxZRlg&usqp=CAU" target="_blank" width="50" height="25">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rWbL1_UjRRvYNjd5j92Vcv1RpAB2JxZRlg&usqp=CAU" target="_blank" width="60" height="35">
    </a> 
 
 <a href="https://br.pinterest.com/jaoguiih/"  target="_blank">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bzeot-VDkler2PPLatFYaK48DhgqEtnW7Q&usqp=CAU" target="_blank" width="45" height="25">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bzeot-VDkler2PPLatFYaK48DhgqEtnW7Q&usqp=CAU" target="_blank" width="55" height="35">
    </a> 
 
 </div>
