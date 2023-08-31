@@ -24,7 +24,8 @@
 
 Nascido em Recife, pleno dia 19 de Novembro de 2005, tenho 17y e sempre gostei de Celulares, Computadores, Tecnologia e Video Games.
 Praticamente impossivel de você me irritar, eu digo DUVIDO, eu sou a personificação da Calma. <br>
-Também muito dedicado e determinado, até quando não preciso ser.
+Também muito dedicado e determinado, até quando não preciso ser. <br>
+Além de ter DDLC como meu jogo favorito.
 </p>
 
 
