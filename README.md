@@ -43,7 +43,7 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 
 <p>
 
-  Em meados de 2019 conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. (Não sei se deu pra perceber). <br>
+  Em meados de 2018 e 19, eu conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. (Não sei se deu pra perceber). <br>
   Personagem favorita? Natsuki! Perfeita e fofa,mas oque tem a ver com github e programação? NADA, mas o perfil é meu e escrevo oq quero, lol. <br>
   E pra quem não sabe... <br>
   "O Clube de Literatura está cheio de garotas fofas! Você escreverá o caminho para o coração deles?" <br>
