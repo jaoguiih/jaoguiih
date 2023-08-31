@@ -4,7 +4,7 @@
 </p>
 <img style="width:50rem;height:25rem;margin: auto" alt='olá' src="https://media.tenor.com/YhrdIYkch5IAAAAC/natsuki-doki-doki.gif"/>
 
-<hr> <div>
+<div>
   
 <h1 style="color:blue;">
      Estudante 📔 | Dedicado 🍷 | Gamer 🎮 
@@ -58,7 +58,6 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 
    <h2>Redes Sociais 💻🖱️</h2>
 
-<p>Instagram, Twitter and Steam.</p>
 
    <a href="https://www.instagram.com/jaoguiih"  target="_blank">
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFuduKeoXuXwaMhQSccqhFzbW6OpEAEg30A&usqp=CAU" target="_blank" width="45" height="25">
