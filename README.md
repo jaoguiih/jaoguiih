@@ -73,6 +73,8 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rWbL1_UjRRvYNjd5j92Vcv1RpAB2JxZRlg&usqp=CAU" target="_blank" width="50" height="25">
    </a> 
 
-
+<a href="https://br.pinterest.com/jaoguiih/"  target="_blank">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bzeot-VDkler2PPLatFYaK48DhgqEtnW7Q&usqp=CAU" target="_blank" width="45" height="25">
+   </a> 
 
 </div>
