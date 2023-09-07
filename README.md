@@ -77,3 +77,7 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
    </a> 
 
 </div>
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
