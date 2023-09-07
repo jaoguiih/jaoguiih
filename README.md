@@ -80,4 +80,4 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&hide_progress=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
