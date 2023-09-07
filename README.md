@@ -49,10 +49,6 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
   
 </div>
 
-<h3> Atualmente Aprendendo...✨</h3>
-
-  <img width="80%" height="270px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
 <div>
 
    <h2>Redes Sociais 💻🖱️</h2>
