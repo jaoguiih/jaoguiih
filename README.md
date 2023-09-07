@@ -7,8 +7,7 @@
   
 <h1 style="color:blue;">
      Estudante 📔 | Dedicado 🍷 | Gamer 🎮 
-
-  </h1>
+ </h1>
 
 </div>
 
@@ -21,7 +20,6 @@
  <h2> Um pouco da minha pessoa..🤙✨</h2>
 
 <p>
-
 Nascido em Recife, pleno dia 19 de Novembro de 2005, tenho 17y e sempre gostei de Celulares, Computadores, Tecnologia e Video Games.
 Praticamente impossivel de você me irritar, eu digo DUVIDO, eu sou a personificação da Calma. <br>
 Também muito dedicado e determinado, até quando não preciso ser. <br>
@@ -32,7 +30,6 @@ Além de ter DDLC como meu jogo favorito.
   <h2>Tecnologia e Internet..🌍✨</h2>
   
 <p>
-
 Joguei minha vida toda tanto sozinho, tanto com familiares e ate colegas de classe, já fui muito energetico quando criança mas hoje já não tenho a mesma energia.<br>
 Sempre tive o interesse em trabalhar e estudar programação, desenvolvimento web, de sistemas e etc. <br>
 Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada vez mais.
@@ -42,7 +39,6 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 <h2> Doki Doki Literature Club 📚❤️✨</h2>
 
 <p>
-
   Em meados de 2018 e 19, eu conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. (Não sei se deu pra perceber). <br>
   Personagem favorita? Natsuki! Perfeita e fofa,mas oque tem a ver com github e programação? NADA, mas o perfil é meu e escrevo oq quero, lol. <br>
   E pra quem não sabe... <br>
@@ -53,6 +49,9 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
   
 </div>
 
+<h3> Atualmente Aprendendo...✨</h3>
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 <div>
 
@@ -78,5 +77,3 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 
 </div>
 
-
-  <img width="200px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
