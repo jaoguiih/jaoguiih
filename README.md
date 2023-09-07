@@ -79,5 +79,4 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 </div>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&hide_progress=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
