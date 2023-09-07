@@ -1,5 +1,5 @@
 ### Yo guys, sup?👋 
- > Prazer, meu nome é João Guilherme (jaoguiih), e sou um Programming Student and Doki Doki Fan.
+ > Prazer, meu nome é João Guilherme (jaoguiih), e sou um Estudante de Programação e Fã de Doki Doki.
 
 <img style="width:50rem;height:25rem;margin: auto" alt='olá' src="https://media.tenor.com/YhrdIYkch5IAAAAC/natsuki-doki-doki.gif"/>
 
