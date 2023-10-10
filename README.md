@@ -20,7 +20,7 @@
  <h2> Um pouco da minha pessoa..🤙✨</h2>
 
 <p>
-Nascido em Recife, pleno dia 19 de Novembro de 2005, tenho 17y e sempre gostei de Celulares, Computadores, Tecnologia e Video Games.
+Nascido em Recife, pleno dia 19 de Novembro de 2005, sempre gostei de Celulares, Computadores, Tecnologia e principalmente Video Games.
 Praticamente impossivel de você me irritar, eu digo DUVIDO, eu sou a personificação da Calma. <br>
 Também muito dedicado e determinado, até quando não preciso ser. <br>
 Além de ter DDLC como meu jogo favorito.
@@ -39,7 +39,7 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 <h2> Doki Doki Literature Club 📚❤️✨</h2>
 
 <p>
-  Em meados de 2018 e 19, eu conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. (Não sei se deu pra perceber). <br>
+  Em meados de 2018/19, eu conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. (Não sei se deu pra perceber). <br>
   Personagem favorita? Natsuki! Perfeita e fofa,mas oque tem a ver com github e programação? NADA, mas o perfil é meu e escrevo oq quero, lol. <br>
   E pra quem não sabe... <br>
   "O Clube de Literatura está cheio de garotas fofas! Você escreverá o caminho para o coração delas?" <br>
@@ -66,6 +66,7 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
   <a href="https://steamcommunity.com/id/jaoguiih/"  target="_blank">
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rWbL1_UjRRvYNjd5j92Vcv1RpAB2JxZRlg&usqp=CAU" target="_blank" width="60" height="30">
    </a> 
+
 
 <a href="https://br.pinterest.com/jaoguiih/"  target="_blank">
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bzeot-VDkler2PPLatFYaK48DhgqEtnW7Q&usqp=CAU" target="_blank" width="55" height="30">
