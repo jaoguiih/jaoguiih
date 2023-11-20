@@ -71,4 +71,3 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
    </a> 
 
 </div>
-
