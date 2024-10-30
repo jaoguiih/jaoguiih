@@ -42,7 +42,6 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
   Em meados de 2018/19, eu conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. <br>
   "O Clube de Literatura está cheio de garotas fofas! Você escreverá o caminho para o coração delas?" <br>
   Este jogo não aparenta oque parece ser... <br>
-  <strong>JUST NATSUKI</strong>
 </p>
   
 </div>
@@ -70,8 +69,6 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 
 </div>
 
- <h3 style="width:58%">
-  E isso é um pouco de mim! <3
- </h3>
+ <h1 style="width:58%" >E isso é um pouco de mim! <3 </h1>
 
 
