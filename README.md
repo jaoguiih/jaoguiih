@@ -68,10 +68,3 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
    </a> &nbsp;
 
 </div>
-
-  <h3 style="width:58%">
-  E isso é um pouco de mim! <3
- </h3>
-
-
-
