@@ -69,6 +69,6 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 
 </div>
 
- <h1 style="width:58%" >E isso é um pouco de mim! <3 </h1>
+ <h1 style="width:40%" >E isso é um pouco de mim! <3 </h1>
 
 
