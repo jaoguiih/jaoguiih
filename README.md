@@ -20,7 +20,7 @@
  <h2> Um pouco da minha pessoa..🤙✨</h2>
 
 <p>
-Nascido em Recife, dia 19 de Novembro de 2005, sempre me interessei e amava passar tempo no celular, computador e principalmente video games. <br>
+Nascido em Recife, dia 19 de Novembro de 2005, amo passar tempo no celular, computador e principalmente video games. <br>
 Amo programação desde meu primeiro curso de desenvolvimento web. <br>
 Sempre muito calmo desde criança, mas também muito dedicado e determinado, até quando não preciso ser. <br>
 Como antes dito, amante de video games, mas de vez enquanto estou assistindo algum anime qualquer.
@@ -31,7 +31,7 @@ Como antes dito, amante de video games, mas de vez enquanto estou assistindo alg
   
 <p>
 Joguei muito e ainda jogo com certa frequencia, sozinho ou com familiares e amigos, já fui muito energetico quando criança mas hoje já não tenho a mesma energia. <br>
-Sempre tive o interesse em trabalhar e estudar programação, desenvolvimento web, de sistemas, TI e etc. <br>
+Sempre tive a curiosidade e interesse em trabalhar e estudar programação, desenvolvimento web, de sistemas, TI e etc. <br>
 Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada vez mais.
 </p>
 
@@ -41,7 +41,7 @@ Estou amando ver todas essas coisas novas e pretendo continuar e melhorar cada v
 <p>
   Em meados de 2018/19, eu conheci esse jogo e até hoje mesmo sendo um Visual Novel amo esse jogo e com certeza é um dos meus jogos favoritos. <br>
   "O Clube de Literatura está cheio de garotas fofas! Você escreverá o caminho para o coração delas?" <br>
-  Uma menção honrosa não faz mal, não é?E vai por mim, este jogo não aparenta oque parece ser. <br>
+  Uma menção honrosa não faz mal, não é? E vai por mim, este jogo não aparenta oque parece ser. <br>
 </p>
   
 </div>
