@@ -37,17 +37,13 @@
   </p>
 
 
-<div>
-  <h2> Meu Github Status 🙀✨</h2>
 
-  <img width="36%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<div align="center">  
-  <img width="30%" height="150px" src="https://github-readme-stats.vercel.app/api?username=jaoguiih&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jaoguii github stats" /> 
- <img style="width:10%;height:10%;margin: auto" alt='natsuki' src="https://media.tenor.com/QPgguxcy_pIAAAAj/pixelstar-pixel.gif"/>
-  <img width="30%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<h2> Meu Github Status 🙀✨</h2>
+  <div align="center">
+    <img width="36%" height="180px" src="https://github-readme-stats.vercel.app/api?username=jaoguiih&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jaoguii github stats" /> 
+    <img style="width:75%;height:50%;margin: auto" alt='natsuki' src="https://media.tenor.com/QPgguxcy_pIAAAAj/pixelstar-pixel.gif"/>
+    <img width="36%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </div>
 
 
 <h2>Redes Sociais 💻🖱️</h2>
@@ -58,4 +54,3 @@
   <a href="https://www.twitter.com/jaoguiih"  target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTyf_wdCFDBuqK-4aGxK1iNLzfsJENK-o2Q&usqp=CAU" target="_blank" width="55" height="30">
   </a> &nbsp;
-
