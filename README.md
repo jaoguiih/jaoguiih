@@ -44,13 +44,3 @@
     <img style="width:75%; height:100%; margin: auto" alt='natsuki' src="https://media.tenor.com/th7DB6Zko-YAAAAj/fnf-natsuki.gif"/>
     <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </div>
-
-
-<h2>Redes Sociais 💻🖱️</h2>
-  <a href="https://www.instagram.com/jaoguiih"  target="_blank">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFuduKeoXuXwaMhQSccqhFzbW6OpEAEg30A&usqp=CAU" target="_blank" width="55" height="30">
-  </a> &nbsp; 
-   
-  <a href="https://www.twitter.com/jaoguiih"  target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTyf_wdCFDBuqK-4aGxK1iNLzfsJENK-o2Q&usqp=CAU" target="_blank" width="55" height="30">
-  </a> &nbsp;
