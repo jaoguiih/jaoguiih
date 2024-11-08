@@ -5,7 +5,7 @@
 
 
 <h1 style="color:blue;">
-     Estudante 📔 | Dedicado 🍷 | Gamer 🎮 <img style="width:2%; height:2%; margin: auto" alt='natsuki' src="https://i.giphy.com/D6Y460bN3Pj1FsteTZ.webp"/>
+     Estudante 📔 | Dedicado 🍷 | MC 🎮
 </h1>
 
 <p>
