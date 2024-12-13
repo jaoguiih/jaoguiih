@@ -1,7 +1,7 @@
 ### Yo guys, sup?👋 
  > Prazer, meu nome é João Guilherme (jaoguiih), e sou um Estudante de Programação e Fã de Doki Doki.
 
-<img style="width:50rem; height:25rem; margin: auto" alt='natsuki' src="https://media.tenor.com/YhrdIYkch5IAAAAC/natsuki-doki-doki.gif"/> 
+<img style="width:50rem; height:25rem; margin: auto" alt='natsuki' src="https://i.pinimg.com/originals/b8/dd/e2/b8dde22c6ee55048a46bd60bfeda7c31.gif"/> 
 
 <h1 style="color:blue;">
      Estudante 📔 | Dedicado 🍷 | MC 🎮
