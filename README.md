@@ -41,6 +41,6 @@
 <h2> Meu Github Status 🙀✨</h2>
   <div align="center">
     <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaoguiih&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jaoguii github stats" /> 
-    <img style="width:75%; height:100%; margin: auto" alt='natsuki' src="https://pa1.aminoapps.com/6904/5a92562e47aecf27132021449b13703f4031f1a3r1-335-369_hq.gif"/>
+    <img style="width:75%; height:100%; margin: auto" alt='natsuki' src="https://media.tenor.com/th7DB6Zko-YAAAAj/fnf-natsuki.gif"/>
     <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </div>
