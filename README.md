@@ -40,7 +40,7 @@
   <div align="center">
    <img style="width:39%; height:195px;" alt='github status' src="https://github-readme-stats.vercel.app/api?username=jaoguiih&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>    
    
-   <img style="margin: auto" alt='ddlc' src="https://media.tenor.com/w_5nAXVRn5cAAAAj/ddlc-just-monika.gif"/> 
+   <img style="width:90%; height:90%; margin: auto" alt='ddlc' src="https://media.tenor.com/w_5nAXVRn5cAAAAj/ddlc-just-monika.gif"/> 
    
-   <img style="width:39%; height:195px;" alt='oque mais uso' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/> 
+   <img style="width:36%; height:192px;" alt='oque mais uso' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoguiih&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/> 
   </div>
