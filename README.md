@@ -1,5 +1,5 @@
 ### Yo guys, sup?👋 
- > Meu instagram: @kauefh_
+ > Meu nome é João Guilherme (jaoguiih), e sou um estudante de Programação e Fã de Doki Doki.
 
 <img style="width:50rem; height:25rem; margin: auto" alt='natsuki' src="https://i.pinimg.com/originals/b8/dd/e2/b8dde22c6ee55048a46bd60bfeda7c31.gif"/> 
 
